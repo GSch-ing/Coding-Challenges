@@ -26,7 +26,8 @@ coding-challenges/
 └── cpp/
     ├── arrays/
     ├── strings/
-    └── dynamic-programming/ ```
+    └── dynamic-programming/ 
+```
 
 ---
 
