@@ -16,16 +16,17 @@ It is intended as a **personal practice archive** to track my progress, reinforc
 
 Solutions are grouped by **language** and then by **topic**:
 
+```bash 
 coding-challenges/
 │
 ├── python/
-│ ├── arrays/
-│ ├── strings/
-│ └── dynamic-programming/
+│   ├── arrays/
+│   ├── strings/
+│   └── dynamic-programming/
 └── cpp/
-├── arrays/
-├── strings/
-└── dynamic-programming/
+    ├── arrays/
+    ├── strings/
+    └── dynamic-programming/ ```
 
 ---
 
